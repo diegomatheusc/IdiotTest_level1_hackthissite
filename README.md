@@ -1,4 +1,4 @@
-<h1> Resolução da primeira missão do Hack This Site; <br> First mission resolution do Hack This Site. </h1>
+<h1> Resolução da primeira missão do Hack This Site; <br> First mission resolution to Hack This Site. </h1>
 
 
 
