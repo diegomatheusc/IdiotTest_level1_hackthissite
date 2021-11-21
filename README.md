@@ -18,10 +18,10 @@
 <br> <br> <br>
 
 <h2> Resolução | Resolution </h2>
-1º Abra a aba de inspecionar o formulário; <br>
-1º Open the Inspect Form tab; <br> <br>
-2º Busque pela tag HTML responsável pelo formulário, encontrei no caminho: <br>
-2º Search for the HTML tag responsible for the form, found on the way: <br> <br>
+:one: Abra a aba de inspecionar o formulário; <br>
+:one: Open the Inspect Form tab; <br> <br>
+:two: Busque pela tag HTML responsável pelo formulário, encontrei no caminho: <br>
+:two: Search for the HTML tag responsible for the form, found on the way: <br> <br>
 
 - `<body cz-shortcut-listen="true">`
 - `<div align="center">`
